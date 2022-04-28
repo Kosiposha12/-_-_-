@@ -1,0 +1,31 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:lab6n7"  xmlns:v="clr-namespace:System;assembly=mscorlib">
+     
+    <v:String x:Key="Home">Главная</v:String>
+    <v:String x:Key="CreateAd">Создать объявление</v:String>
+    <v:String x:Key="Setting">Настройки</v:String>
+    <v:String x:Key="Exit">Выход</v:String>
+
+
+    <v:String x:Key="m_HomePage_ColumnName">Название</v:String>
+    <v:String x:Key="m_HomePage_ColumnCategory">Категория</v:String>
+    <v:String x:Key="m_HomePage_ColumnRaiting">Рейтинг</v:String>
+    <v:String x:Key="m_HomePage_ColumnCost">Цена</v:String>
+    <v:String x:Key="m_HomePage_ColumnAmount">Количество</v:String>
+    <v:String x:Key="m_HomePage_ColumnImages">Фото</v:String>
+
+    <v:String x:Key="FullName">Полное название:</v:String>
+    <v:String x:Key="ShortName">Краткое название:</v:String>
+    <v:String x:Key="Category">Категория товара:</v:String>
+    <v:String x:Key="Raiting">Рейтинг товара:</v:String>
+    <v:String x:Key="Cost">Цена товара:</v:String>
+    <v:String x:Key="Amount">Количество:</v:String>
+    <v:String x:Key="Images">Фото:</v:String>
+    <v:String x:Key="AddPhotoButton">Добавить фото</v:String>
+    <v:String x:Key="CreateAdButton">Создать объявление</v:String>
+    <v:String x:Key="Text1">Используйте реальные фото в разных ракурсах.</v:String>
+    <v:String x:Key="Text2">Максимальный размер: 10 МБ.</v:String>
+    
+
+</ResourceDictionary>
